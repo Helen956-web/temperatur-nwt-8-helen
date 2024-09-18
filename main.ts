@@ -9,9 +9,3 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     }
     basic.showString("" + (input.temperature()))
 })
-loops.everyInterval(500, function () {
-	
-})
-basic.forever(function () {
-	
-})
